@@ -1,0 +1,9 @@
+[package]
+name = "spinning"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+image = "0.25.6"
+noisy_float = "0.2.0"
+rand = "0.9.1"
